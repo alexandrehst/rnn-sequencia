@@ -1,2 +1,4 @@
 # rnn-sequencia
-Exercício de criação de uma rede neural recorrente para sequências simples de números
+
+##Descrição
+Esse é um exercício baseado no curso de deep learnig da Udacity. A ideia é permitir a construção de sequências de números simples e treinar a rede para continuar a sequência.
